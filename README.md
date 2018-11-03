@@ -1,0 +1,1 @@
+#Amplificador Clase H/G
