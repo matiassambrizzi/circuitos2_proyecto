@@ -1,0 +1,4 @@
+Circuit: * Z:\home\matias\Mati\FIUBA\Circuitos2\TPSS\circuitos2_proyecto\simulaciones\Intento etapa de entrada.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xu2 out -vcomp -vl -vh n025 ltc1007
