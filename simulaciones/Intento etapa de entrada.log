@@ -1,0 +1,39 @@
+Circuit: * Z:\home\matias\Mati\FIUBA\Circuitos2\TPSS\circuitos2_proyecto\simulaciones\Intento etapa de entrada.asc
+
+Direct Newton iteration for .op point succeeded.
+N-Period=1
+Fourier components of V(out)
+DC component:0.0088882
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	2.000e+04	2.433e+01	1.000e+00	  -14.49°	    0.00°
+    2   	4.000e+04	3.800e-02	1.562e-03	  131.52°	  146.02°
+    3   	6.000e+04	7.836e-03	3.221e-04	  -69.10°	  -54.60°
+    4   	8.000e+04	1.248e-02	5.130e-04	   60.92°	   75.42°
+    5   	1.000e+05	1.098e-02	4.512e-04	 -131.86°	 -117.36°
+    6   	1.200e+05	1.277e-02	5.250e-04	   20.50°	   34.99°
+    7   	1.400e+05	9.126e-03	3.751e-04	  158.41°	  172.91°
+    8   	1.600e+05	9.129e-03	3.752e-04	  -50.84°	  -36.35°
+    9   	1.800e+05	6.389e-03	2.626e-04	   43.39°	   57.88°
+Total Harmonic Distortion: 0.190672%(0.196783%)
+
+
+
+Date: Sat Nov 10 13:12:59 2018
+Total elapsed time: 3.019 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 223998
+traniter = 223989
+tranpoints = 80095
+accept = 62060
+rejected = 18035
+matrix size = 67
+fillins = 74
+solver = Normal
+Matrix Compiler1: 9.75 KB object code size  2.6/1.6/[1.1]
+Matrix Compiler2: 7.52 KB object code size  1.2/1.6/[1.0]
+
