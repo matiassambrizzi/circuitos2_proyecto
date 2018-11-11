@@ -59,46 +59,216 @@ Warning: Multiple definitions of model "2n3906" Type: BJT
 Warning: Multiple definitions of model "2n3904" Type: BJT
 Warning: Multiple definitions of model "2n2907" Type: BJT
 Warning: Multiple definitions of model "2n2222" Type: BJT
-WARNING: Node NC_04 is floating.
+Warning: Multiple definitions of model "w5ap-lzmz-5k8l" Type: Diode
+Warning: Multiple definitions of model "1n5369b" Type: Diode
+Warning: Multiple definitions of model "1n5371b" Type: Diode
+Warning: Multiple definitions of model "1n5375b" Type: Diode
+Warning: Multiple definitions of model "1n5378b" Type: Diode
+Warning: Multiple definitions of model "1n5373b" Type: Diode
+Warning: Multiple definitions of model "pt-121-b" Type: Diode
+Warning: Multiple definitions of model "ss24" Type: Diode
+Warning: Multiple definitions of model "es1d" Type: Diode
+Warning: Multiple definitions of model "pds5100" Type: Diode
+Warning: Multiple definitions of model "zlls2000" Type: Diode
+Warning: Multiple definitions of model "zlls1000" Type: Diode
+Warning: Multiple definitions of model "10mq060n" Type: Diode
+Warning: Multiple definitions of model "b560c" Type: Diode
+Warning: Multiple definitions of model "b550c" Type: Diode
+Warning: Multiple definitions of model "b540c" Type: Diode
+Warning: Multiple definitions of model "b530c" Type: Diode
+Warning: Multiple definitions of model "b520c" Type: Diode
+Warning: Multiple definitions of model "pds760" Type: Diode
+Warning: Multiple definitions of model "dflz33" Type: Diode
+Warning: Multiple definitions of model "gsd2004w-v" Type: Diode
+Warning: Multiple definitions of model "prll5817" Type: Diode
+Warning: Multiple definitions of model "pmeg6010aed" Type: Diode
+Warning: Multiple definitions of model "pmeg2005eb" Type: Diode
+Warning: Multiple definitions of model "pmeg2010aeb" Type: Diode
+Warning: Multiple definitions of model "pmeg4005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg3005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg2005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg4010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg3010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg2010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg2010ea" Type: Diode
+Warning: Multiple definitions of model "pmeg2020aea" Type: Diode
+Warning: Multiple definitions of model "nssws108t" Type: Diode
+Warning: Multiple definitions of model "nssw008ct-p1" Type: Diode
+Warning: Multiple definitions of model "aot-2015" Type: Diode
+Warning: Multiple definitions of model "lxk2-pw14" Type: Diode
+Warning: Multiple definitions of model "lxhl-bw02" Type: Diode
+Warning: Multiple definitions of model "qtlp690c" Type: Diode
+Warning: Multiple definitions of model "nscw100" Type: Diode
+Warning: Multiple definitions of model "nspw500bs" Type: Diode
+Warning: Multiple definitions of model "upsc600" Type: Diode
+Warning: Multiple definitions of model "30bq060" Type: Diode
+Warning: Multiple definitions of model "mbr20100ct" Type: Diode
+Warning: Multiple definitions of model "mbrb2545ct" Type: Diode
+Warning: Multiple definitions of model "mur460" Type: Diode
+Warning: Multiple definitions of model "mbr0540" Type: Diode
+Warning: Multiple definitions of model "mv2201" Type: Diode
+Warning: Multiple definitions of model "1n750" Type: Diode
+Warning: Multiple definitions of model "rb10l-40" Type: Diode
+Warning: Multiple definitions of model "bzx84c15l" Type: Diode
+Warning: Multiple definitions of model "bzx84c12l" Type: Diode
+Warning: Multiple definitions of model "bzx84c10l" Type: Diode
+Warning: Multiple definitions of model "bzx84c8v2l" Type: Diode
+Warning: Multiple definitions of model "bzx84c6v2l" Type: Diode
+Warning: Multiple definitions of model "mbr745" Type: Diode
+Warning: Multiple definitions of model "mbr735" Type: Diode
+Warning: Multiple definitions of model "murs320" Type: Diode
+Warning: Multiple definitions of model "murs120" Type: Diode
+Warning: Multiple definitions of model "dfls220l" Type: Diode
+Warning: Multiple definitions of model "cmdsh2-3" Type: Diode
+Warning: Multiple definitions of model "mbrs360" Type: Diode
+Warning: Multiple definitions of model "mbrs340" Type: Diode
+Warning: Multiple definitions of model "mbrs140" Type: Diode
+Warning: Multiple definitions of model "mbrs130l" Type: Diode
+Warning: Multiple definitions of model "mbrs1100" Type: Diode
+Warning: Multiple definitions of model "mbr0530l" Type: Diode
+Warning: Multiple definitions of model "mbr0520l" Type: Diode
+Warning: Multiple definitions of model "bat54" Type: Diode
+Warning: Multiple definitions of model "1n5819" Type: Diode
+Warning: Multiple definitions of model "1n5818" Type: Diode
+Warning: Multiple definitions of model "1n5817" Type: Diode
+Warning: Multiple definitions of model "mmsd4148" Type: Diode
+Warning: Multiple definitions of model "1n4148" Type: Diode
+Warning: Multiple definitions of model "1n914" Type: Diode
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 1.67772
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.20453
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.11461
+vernier = 0.015625
+vernier = 0.0208333
+Gmin = 1.07064
+vernier = 0.0104167
+vernier = 0.0138889
+vernier = 0.00694444
+Gmin = 1.05863
+vernier = 0.00925925
+vernier = 0.00462963
+Gmin = 1.04586
+vernier = 0.00617283
+vernier = 0.00308642
+Gmin = 1.03742
+vernier = 0.00411522
+vernier = 0.00205761
+Gmin = 1.03157
+vernier = 0.00274348
+vernier = 0.00365797
+vernier = 0.00182899
+Gmin = 1.0264
+vernier = 0.00243865
+vernier = 0.00121932
+Gmin = 1.02343
+vernier = 0.00162576
+vernier = 0.000812882
+Gmin = 1.02073
+vernier = 0.00108384
+vernier = 0.00144512
+vernier = 0.000722562
+Gmin = 1.01866
+vernier = 0.000963415
+Gmin = 1.01651
+vernier = 0.00128455
+vernier = 0.000642277
+vernier = 0.000856369
+vernier = 0.000428184
+Gmin = 1.01545
+vernier = 0.000570912
+Gmin = 1.01418
+vernier = 0.000761216
+vernier = 0.000570912
+vernier = 0.000761216
+vernier = 0.000570912
+Gmin = 1.01332
+vernier = 0.000761216
+vernier = 0.000570912
+vernier = 0.000428184
+Gmin = 1.01249
+vernier = 0.000570912
+vernier = 0.000428184
+Gmin = 1.01162
+vernier = 0.000570912
+vernier = 0.000428184
+vernier = 0.000570912
+vernier = 0.000428184
+Gmin = 1.01097
+Gmin = 0
+Gmin stepping failed
 
-WARNING: Less than two connections to node NC_01.  This node is used by V:U1:I2.
-WARNING: Less than two connections to node NC_02.  This node is used by Q12.
-WARNING: Less than two connections to node NC_03.  This node is used by Q12.
-WARNING: Less than two connections to node NC_04.  This node is used by Q12.
-Direct Newton iteration for .op point succeeded.
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 3.40909%
+Source Step = 5.30303%
+Source Step = 7.19697%
+Source Step = 9.09091%
+Source Step = 10.9848%
+vernier = 0.09375
+Source Step = 13.3523%
+Source Step = 16.1932%
+Source Step = 19.0341%
+Source Step = 21.875%
+Source Step = 24.7159%
+vernier = 0.140625
+Source Step = 28.125%
+Source Step = 32.3864%
+Source Step = 36.6477%
+Source Step = 40.9091%
+Source Step = 45.1705%
+vernier = 0.210938
+Source Step = 50.071%
+Source Step = 56.4631%
+Source Step = 62.8551%
+Source Step = 69.2472%
+Source Step = 75.6392%
+vernier = 0.316406
+Source Step = 82.6705%
+Source Step = 92.2585%
+Source stepping succeeded in finding the operating point.
+
 N-Period=1
-Fourier components of V(n014)
-DC component:0.57066
+Fourier components of V(vout)
+DC component:-0.0501468
 
 Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
  Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
-    1   	1.000e+03	9.944e-02	1.000e+00	    0.01°	    0.00°
-    2   	2.000e+03	1.137e-07	1.143e-06	  178.37°	  178.36°
-    3   	3.000e+03	7.015e-08	7.055e-07	 -167.37°	 -167.38°
-    4   	4.000e+03	5.298e-08	5.328e-07	 -164.05°	 -164.06°
-    5   	5.000e+03	4.150e-08	4.173e-07	 -159.32°	 -159.33°
-    6   	6.000e+03	3.321e-08	3.340e-07	 -154.66°	 -154.67°
-    7   	7.000e+03	2.735e-08	2.750e-07	 -149.83°	 -149.84°
-    8   	8.000e+03	2.389e-08	2.403e-07	 -143.84°	 -143.85°
-    9   	9.000e+03	2.084e-08	2.096e-07	 -135.77°	 -135.78°
-Total Harmonic Distortion: 0.000160%(0.012519%)
+    1   	1.000e+03	2.213e+01	1.000e+00	    0.00°	    0.00°
+    2   	2.000e+03	1.391e-03	6.286e-05	  170.01°	  170.01°
+    3   	3.000e+03	3.723e-03	1.683e-04	    5.27°	    5.27°
+    4   	4.000e+03	6.336e-04	2.863e-05	  131.43°	  131.43°
+    5   	5.000e+03	2.334e-03	1.055e-04	   -6.97°	   -6.97°
+    6   	6.000e+03	1.782e-04	8.051e-06	   53.92°	   53.92°
+    7   	7.000e+03	2.248e-04	1.016e-05	  102.53°	  102.53°
+    8   	8.000e+03	3.799e-04	1.717e-05	  -74.59°	  -74.59°
+    9   	9.000e+03	1.332e-03	6.021e-05	  153.21°	  153.21°
+Total Harmonic Distortion: 0.021976%(0.198135%)
 
 
 
-Date: Sat Nov 10 20:11:43 2018
-Total elapsed time: 0.612 seconds.
+Date: Sun Nov 11 11:32:39 2018
+Total elapsed time: 5.398 seconds.
 
 tnom = 27
 temp = 25
 method = modified trap
-totiter = 22279
-traniter = 22242
-tranpoints = 11047
-accept = 11040
-rejected = 7
-matrix size = 87
-fillins = 85
+totiter = 92157
+traniter = 77797
+tranpoints = 19197
+accept = 13883
+rejected = 5314
+matrix size = 139
+fillins = 299
 solver = Normal
-Matrix Compiler1: 10.95 KB object code size  2.9/1.8/[1.1]
-Matrix Compiler2: off  [1.4]/2.3/1.5
+Thread vector: 16.0/13.7[3] 8.7/6.1[3] 5.5/4.7[3] 1.5/2.5[1]  2592/500
+Matrix Compiler1: 25.44 KB object code size  8.7/4.8/[2.6]
+Matrix Compiler2: 17.33 KB object code size  4.1/5.9/[2.1]
 
