@@ -59,99 +59,24 @@ Warning: Multiple definitions of model "2n3906" Type: BJT
 Warning: Multiple definitions of model "2n3904" Type: BJT
 Warning: Multiple definitions of model "2n2907" Type: BJT
 Warning: Multiple definitions of model "2n2222" Type: BJT
-Warning: Multiple definitions of model "w5ap-lzmz-5k8l" Type: Diode
-Warning: Multiple definitions of model "1n5369b" Type: Diode
-Warning: Multiple definitions of model "1n5371b" Type: Diode
-Warning: Multiple definitions of model "1n5375b" Type: Diode
-Warning: Multiple definitions of model "1n5378b" Type: Diode
-Warning: Multiple definitions of model "1n5373b" Type: Diode
-Warning: Multiple definitions of model "pt-121-b" Type: Diode
-Warning: Multiple definitions of model "ss24" Type: Diode
-Warning: Multiple definitions of model "es1d" Type: Diode
-Warning: Multiple definitions of model "pds5100" Type: Diode
-Warning: Multiple definitions of model "zlls2000" Type: Diode
-Warning: Multiple definitions of model "zlls1000" Type: Diode
-Warning: Multiple definitions of model "10mq060n" Type: Diode
-Warning: Multiple definitions of model "b560c" Type: Diode
-Warning: Multiple definitions of model "b550c" Type: Diode
-Warning: Multiple definitions of model "b540c" Type: Diode
-Warning: Multiple definitions of model "b530c" Type: Diode
-Warning: Multiple definitions of model "b520c" Type: Diode
-Warning: Multiple definitions of model "pds760" Type: Diode
-Warning: Multiple definitions of model "dflz33" Type: Diode
-Warning: Multiple definitions of model "gsd2004w-v" Type: Diode
-Warning: Multiple definitions of model "prll5817" Type: Diode
-Warning: Multiple definitions of model "pmeg6010aed" Type: Diode
-Warning: Multiple definitions of model "pmeg2005eb" Type: Diode
-Warning: Multiple definitions of model "pmeg2010aeb" Type: Diode
-Warning: Multiple definitions of model "pmeg4005aea" Type: Diode
-Warning: Multiple definitions of model "pmeg3005aea" Type: Diode
-Warning: Multiple definitions of model "pmeg2005aea" Type: Diode
-Warning: Multiple definitions of model "pmeg4010bea" Type: Diode
-Warning: Multiple definitions of model "pmeg3010bea" Type: Diode
-Warning: Multiple definitions of model "pmeg2010bea" Type: Diode
-Warning: Multiple definitions of model "pmeg2010ea" Type: Diode
-Warning: Multiple definitions of model "pmeg2020aea" Type: Diode
-Warning: Multiple definitions of model "nssws108t" Type: Diode
-Warning: Multiple definitions of model "nssw008ct-p1" Type: Diode
-Warning: Multiple definitions of model "aot-2015" Type: Diode
-Warning: Multiple definitions of model "lxk2-pw14" Type: Diode
-Warning: Multiple definitions of model "lxhl-bw02" Type: Diode
-Warning: Multiple definitions of model "qtlp690c" Type: Diode
-Warning: Multiple definitions of model "nscw100" Type: Diode
-Warning: Multiple definitions of model "nspw500bs" Type: Diode
-Warning: Multiple definitions of model "upsc600" Type: Diode
-Warning: Multiple definitions of model "30bq060" Type: Diode
-Warning: Multiple definitions of model "mbr20100ct" Type: Diode
-Warning: Multiple definitions of model "mbrb2545ct" Type: Diode
-Warning: Multiple definitions of model "mur460" Type: Diode
-Warning: Multiple definitions of model "mbr0540" Type: Diode
-Warning: Multiple definitions of model "mv2201" Type: Diode
-Warning: Multiple definitions of model "1n750" Type: Diode
-Warning: Multiple definitions of model "rb10l-40" Type: Diode
-Warning: Multiple definitions of model "bzx84c15l" Type: Diode
-Warning: Multiple definitions of model "bzx84c12l" Type: Diode
-Warning: Multiple definitions of model "bzx84c10l" Type: Diode
-Warning: Multiple definitions of model "bzx84c8v2l" Type: Diode
-Warning: Multiple definitions of model "bzx84c6v2l" Type: Diode
-Warning: Multiple definitions of model "mbr745" Type: Diode
-Warning: Multiple definitions of model "mbr735" Type: Diode
-Warning: Multiple definitions of model "murs320" Type: Diode
-Warning: Multiple definitions of model "murs120" Type: Diode
-Warning: Multiple definitions of model "dfls220l" Type: Diode
-Warning: Multiple definitions of model "cmdsh2-3" Type: Diode
-Warning: Multiple definitions of model "mbrs360" Type: Diode
-Warning: Multiple definitions of model "mbrs340" Type: Diode
-Warning: Multiple definitions of model "mbrs140" Type: Diode
-Warning: Multiple definitions of model "mbrs130l" Type: Diode
-Warning: Multiple definitions of model "mbrs1100" Type: Diode
-Warning: Multiple definitions of model "mbr0530l" Type: Diode
-Warning: Multiple definitions of model "mbr0520l" Type: Diode
-Warning: Multiple definitions of model "bat54" Type: Diode
-Warning: Multiple definitions of model "1n5819" Type: Diode
-Warning: Multiple definitions of model "1n5818" Type: Diode
-Warning: Multiple definitions of model "1n5817" Type: Diode
-Warning: Multiple definitions of model "mmsd4148" Type: Diode
-Warning: Multiple definitions of model "1n4148" Type: Diode
-Warning: Multiple definitions of model "1n914" Type: Diode
 Direct Newton iteration for .op point succeeded.
 .fourier quantity "V(vout)" not pressent in data.
 
 
-Date: Sun Nov 11 11:11:25 2018
-Total elapsed time: 0.261 seconds.
+Date: Mon Nov 12 17:26:18 2018
+Total elapsed time: 0.227 seconds.
 
 tnom = 27
 temp = 25
 method = modified trap
-totiter = 6573
-traniter = 6533
-tranpoints = 1493
-accept = 1063
-rejected = 430
-matrix size = 60
+totiter = 5947
+traniter = 5909
+tranpoints = 1494
+accept = 1072
+rejected = 422
+matrix size = 57
 fillins = 22
 solver = Normal
-Matrix Compiler1: 3.62 KB object code size  1.4/1.0/[0.8]
-Matrix Compiler2: 5.10 KB object code size  1.1/1.4/[0.9]
+Matrix Compiler1: 3.54 KB object code size  1.5/1.1/[0.9]
+Matrix Compiler2: 4.89 KB object code size  1.2/1.6/[1.1]
 
