@@ -1,6 +1,7 @@
 #!/bin/bash
 echo -e '\e[1;41mComandos Git\e[0m:'
 echo -e '\e[1;42mPara usarlo ingrese ./gitCommands.sh opcion "commit" "branch"\e[0m:'
+echo -e '\e[1;42mOBS: cambiar permisos: chmod +x gitCommands\e[0m:'
 
 if [ $1 -eq 1 ]; then
 	git add .
