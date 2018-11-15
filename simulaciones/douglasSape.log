@@ -1,0 +1,655 @@
+Circuit: * Z:\home\matias\Mati\FIUBA\Circuitos2\TPSS\circuitos2_proyecto\simulaciones\douglasSape.asc
+
+Warning: Multiple definitions of model "bc817-16" Type: BJT
+Warning: Multiple definitions of model "bc848b" Type: BJT
+Warning: Multiple definitions of model "bc807-16" Type: BJT
+Warning: Multiple definitions of model "bcx17" Type: BJT
+Warning: Multiple definitions of model "bc858b" Type: BJT
+Warning: Multiple definitions of model "2sd1898" Type: BJT
+Warning: Multiple definitions of model "d45h11" Type: BJT
+Warning: Multiple definitions of model "bc856b" Type: BJT
+Warning: Multiple definitions of model "bc556b" Type: BJT
+Warning: Multiple definitions of model "bc846b" Type: BJT
+Warning: Multiple definitions of model "bc546b" Type: BJT
+Warning: Multiple definitions of model "bc327-40" Type: BJT
+Warning: Multiple definitions of model "bc327-25" Type: BJT
+Warning: Multiple definitions of model "bc807-40" Type: BJT
+Warning: Multiple definitions of model "bc807-25" Type: BJT
+Warning: Multiple definitions of model "bc857c" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc857a" Type: BJT
+Warning: Multiple definitions of model "bc557c" Type: BJT
+Warning: Multiple definitions of model "bc557b" Type: BJT
+Warning: Multiple definitions of model "bc337-40" Type: BJT
+Warning: Multiple definitions of model "bc337-25" Type: BJT
+Warning: Multiple definitions of model "bc817-40" Type: BJT
+Warning: Multiple definitions of model "bc817-25" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Warning: Multiple definitions of model "bc847a" Type: BJT
+Warning: Multiple definitions of model "bc547c" Type: BJT
+Warning: Multiple definitions of model "bc547b" Type: BJT
+Warning: Multiple definitions of model "2n3019" Type: BJT
+Warning: Multiple definitions of model "bcw68g" Type: BJT
+Warning: Multiple definitions of model "bcw68f" Type: BJT
+Warning: Multiple definitions of model "bcw60d" Type: BJT
+Warning: Multiple definitions of model "bcw60c" Type: BJT
+Warning: Multiple definitions of model "bcw60b" Type: BJT
+Warning: Multiple definitions of model "bcw60a" Type: BJT
+Warning: Multiple definitions of model "2n3055" Type: BJT
+Warning: Multiple definitions of model "2n5771" Type: BJT
+Warning: Multiple definitions of model "2n5769" Type: BJT
+Warning: Multiple definitions of model "2n2369" Type: BJT
+Warning: Multiple definitions of model "2n5401" Type: BJT
+Warning: Multiple definitions of model "2n5550" Type: BJT
+Warning: Multiple definitions of model "2n4403" Type: BJT
+Warning: Multiple definitions of model "2n4401" Type: BJT
+Warning: Multiple definitions of model "2n2905a" Type: BJT
+Warning: Multiple definitions of model "2n2219a" Type: BJT
+Warning: Multiple definitions of model "2n5087" Type: BJT
+Warning: Multiple definitions of model "2n5210" Type: BJT
+Warning: Multiple definitions of model "2n5089" Type: BJT
+Warning: Multiple definitions of model "2n3391a" Type: BJT
+Warning: Multiple definitions of model "2n4126" Type: BJT
+Warning: Multiple definitions of model "2n4124" Type: BJT
+Warning: Multiple definitions of model "ztx1048a" Type: BJT
+Warning: Multiple definitions of model "ztx849" Type: BJT
+Warning: Multiple definitions of model "fzt849" Type: BJT
+Warning: Multiple definitions of model "2n3906" Type: BJT
+Warning: Multiple definitions of model "2n3904" Type: BJT
+Warning: Multiple definitions of model "2n2907" Type: BJT
+Warning: Multiple definitions of model "2n2222" Type: BJT
+Warning: Multiple definitions of model "w5ap-lzmz-5k8l" Type: Diode
+Warning: Multiple definitions of model "1n5369b" Type: Diode
+Warning: Multiple definitions of model "1n5371b" Type: Diode
+Warning: Multiple definitions of model "1n5375b" Type: Diode
+Warning: Multiple definitions of model "1n5378b" Type: Diode
+Warning: Multiple definitions of model "1n5373b" Type: Diode
+Warning: Multiple definitions of model "pt-121-b" Type: Diode
+Warning: Multiple definitions of model "ss24" Type: Diode
+Warning: Multiple definitions of model "es1d" Type: Diode
+Warning: Multiple definitions of model "pds5100" Type: Diode
+Warning: Multiple definitions of model "zlls2000" Type: Diode
+Warning: Multiple definitions of model "zlls1000" Type: Diode
+Warning: Multiple definitions of model "10mq060n" Type: Diode
+Warning: Multiple definitions of model "b560c" Type: Diode
+Warning: Multiple definitions of model "b550c" Type: Diode
+Warning: Multiple definitions of model "b540c" Type: Diode
+Warning: Multiple definitions of model "b530c" Type: Diode
+Warning: Multiple definitions of model "b520c" Type: Diode
+Warning: Multiple definitions of model "pds760" Type: Diode
+Warning: Multiple definitions of model "dflz33" Type: Diode
+Warning: Multiple definitions of model "gsd2004w-v" Type: Diode
+Warning: Multiple definitions of model "prll5817" Type: Diode
+Warning: Multiple definitions of model "pmeg6010aed" Type: Diode
+Warning: Multiple definitions of model "pmeg2005eb" Type: Diode
+Warning: Multiple definitions of model "pmeg2010aeb" Type: Diode
+Warning: Multiple definitions of model "pmeg4005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg3005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg2005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg4010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg3010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg2010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg2010ea" Type: Diode
+Warning: Multiple definitions of model "pmeg2020aea" Type: Diode
+Warning: Multiple definitions of model "nssws108t" Type: Diode
+Warning: Multiple definitions of model "nssw008ct-p1" Type: Diode
+Warning: Multiple definitions of model "aot-2015" Type: Diode
+Warning: Multiple definitions of model "lxk2-pw14" Type: Diode
+Warning: Multiple definitions of model "lxhl-bw02" Type: Diode
+Warning: Multiple definitions of model "qtlp690c" Type: Diode
+Warning: Multiple definitions of model "nscw100" Type: Diode
+Warning: Multiple definitions of model "nspw500bs" Type: Diode
+Warning: Multiple definitions of model "upsc600" Type: Diode
+Warning: Multiple definitions of model "30bq060" Type: Diode
+Warning: Multiple definitions of model "mbr20100ct" Type: Diode
+Warning: Multiple definitions of model "mbrb2545ct" Type: Diode
+Warning: Multiple definitions of model "mur460" Type: Diode
+Warning: Multiple definitions of model "mbr0540" Type: Diode
+Warning: Multiple definitions of model "mv2201" Type: Diode
+Warning: Multiple definitions of model "1n750" Type: Diode
+Warning: Multiple definitions of model "rb10l-40" Type: Diode
+Warning: Multiple definitions of model "bzx84c15l" Type: Diode
+Warning: Multiple definitions of model "bzx84c12l" Type: Diode
+Warning: Multiple definitions of model "bzx84c10l" Type: Diode
+Warning: Multiple definitions of model "bzx84c8v2l" Type: Diode
+Warning: Multiple definitions of model "bzx84c6v2l" Type: Diode
+Warning: Multiple definitions of model "mbr745" Type: Diode
+Warning: Multiple definitions of model "mbr735" Type: Diode
+Warning: Multiple definitions of model "murs320" Type: Diode
+Warning: Multiple definitions of model "murs120" Type: Diode
+Warning: Multiple definitions of model "dfls220l" Type: Diode
+Warning: Multiple definitions of model "cmdsh2-3" Type: Diode
+Warning: Multiple definitions of model "mbrs360" Type: Diode
+Warning: Multiple definitions of model "mbrs340" Type: Diode
+Warning: Multiple definitions of model "mbrs140" Type: Diode
+Warning: Multiple definitions of model "mbrs130l" Type: Diode
+Warning: Multiple definitions of model "mbrs1100" Type: Diode
+Warning: Multiple definitions of model "mbr0530l" Type: Diode
+Warning: Multiple definitions of model "mbr0520l" Type: Diode
+Warning: Multiple definitions of model "bat54" Type: Diode
+Warning: Multiple definitions of model "1n5819" Type: Diode
+Warning: Multiple definitions of model "1n5818" Type: Diode
+Warning: Multiple definitions of model "1n5817" Type: Diode
+Warning: Multiple definitions of model "mmsd4148" Type: Diode
+Warning: Multiple definitions of model "1n4148" Type: Diode
+Warning: Multiple definitions of model "1n914" Type: Diode
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 1.67772
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.20453
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 1.11461
+vernier = 0.015625
+vernier = 0.0208333
+Gmin = 1.07064
+vernier = 0.0104167
+vernier = 0.0138889
+vernier = 0.00694444
+Gmin = 1.05863
+vernier = 0.00925925
+vernier = 0.00462963
+Gmin = 1.04586
+vernier = 0.00617283
+vernier = 0.00308642
+Gmin = 1.03742
+vernier = 0.00411522
+vernier = 0.00205761
+Gmin = 1.03157
+vernier = 0.00274348
+vernier = 0.00365797
+vernier = 0.00182899
+Gmin = 1.0264
+vernier = 0.00243865
+vernier = 0.00121932
+Gmin = 1.02343
+vernier = 0.00162576
+vernier = 0.000812882
+Gmin = 1.02073
+vernier = 0.00108384
+vernier = 0.00144512
+vernier = 0.000722562
+Gmin = 1.01866
+vernier = 0.000963415
+Gmin = 1.01651
+vernier = 0.00128455
+vernier = 0.000642277
+vernier = 0.000856369
+Gmin = 1.01502
+vernier = 0.000428184
+vernier = 0.000570912
+Gmin = 1.01411
+vernier = 0.000761216
+vernier = 0.000570912
+vernier = 0.000761216
+Gmin = 1.01291
+vernier = 0.000570912
+vernier = 0.000428184
+Gmin = 1.0122
+vernier = 0.000570912
+vernier = 0.000428184
+vernier = 0.000570912
+Gmin = 1.01129
+vernier = 0.000428184
+vernier = 0.000570912
+vernier = 0.000428184
+Gmin = 1.01068
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 2.32008%
+Source Step = 2.43845%
+Source Step = 2.55682%
+Source Step = 2.67519%
+Source Step = 2.79356%
+vernier = 0.00585938
+Source Step = 2.92969%
+Source Step = 3.10724%
+Source Step = 3.2848%
+Source Step = 3.46236%
+Source Step = 3.63991%
+vernier = 0.00878906
+Source Step = 3.83523%
+Source Step = 4.10156%
+Source Step = 4.3679%
+Source Step = 4.63423%
+Source Step = 4.90057%
+vernier = 0.0131836
+Source Step = 5.18022%
+Source Step = 5.57972%
+Source Step = 5.97923%
+Source Step = 6.37873%
+Source Step = 6.77823%
+Source Step = 7.17773%
+vernier = 0.0197754
+Source Step = 7.77699%
+Source Step = 8.37624%
+Source Step = 8.9755%
+Source Step = 9.57475%
+Source Step = 10.174%
+vernier = 0.0296631
+Source Step = 11.0429%
+Source Step = 11.9418%
+Source Step = 12.8407%
+Source Step = 13.7396%
+Source Step = 14.6384%
+vernier = 0.0444946
+Source Step = 15.8969%
+Source Step = 17.2452%
+Source Step = 18.5935%
+Source Step = 19.9419%
+Source Step = 21.2902%
+vernier = 0.0667419
+Source Step = 23.1104%
+Source Step = 25.1329%
+Source Step = 27.1554%
+Source Step = 29.1779%
+Source Step = 31.2003%
+vernier = 0.100113
+Source Step = 33.8296%
+Source Step = 36.8633%
+Source Step = 39.897%
+Source Step = 42.9307%
+Source Step = 45.9645%
+vernier = 0.150169
+Source Step = 49.7566%
+Source Step = 54.3072%
+Source Step = 58.8578%
+Source Step = 63.4084%
+Source Step = 65.6979%
+Source Step = 65.769%
+Source Step = 65.8401%
+Source Step = 65.9112%
+Source Step = 65.9823%
+Source Step = 66.0534%
+vernier = 0.00351959
+Source Step = 66.1494%
+Source Step = 66.2561%
+Source Step = 66.3627%
+Source Step = 66.4694%
+Source Step = 66.576%
+vernier = 0.00527939
+Source Step = 66.7147%
+Source Step = 66.8747%
+Source Step = 67.0346%
+Source Step = 67.1946%
+Source Step = 67.3546%
+vernier = 0.00791909
+Source Step = 67.5546%
+Source Step = 67.7945%
+Source Step = 68.0345%
+Source Step = 68.2745%
+Source Step = 68.5145%
+vernier = 0.0118786
+Source Step = 68.8024%
+Source Step = 69.1624%
+Source Step = 69.5223%
+Source Step = 69.8823%
+Source Step = 70.2423%
+vernier = 0.0178179
+Source Step = 70.6562%
+Source Step = 71.1962%
+Source Step = 71.7361%
+Source Step = 72.276%
+Source Step = 72.816%
+vernier = 0.0267269
+Source Step = 73.4099%
+Source Step = 74.2198%
+Source Step = 75.0297%
+Source Step = 75.8396%
+Source Step = 76.6495%
+vernier = 0.0400904
+Source Step = 77.4999%
+Source Step = 78.7148%
+Source Step = 79.9296%
+Source Step = 81.1445%
+Source Step = 82.3594%
+Source Step = 83.5742%
+vernier = 0.0601356
+Source Step = 85.3965%
+Source Step = 87.2188%
+Source Step = 89.0411%
+Source Step = 90.5445%
+vernier = 0.00375847
+Source Step = 90.5416%
+Source Step = 90.5701%
+Source Step = 90.5986%
+Source Step = 90.6271%
+Source Step = 90.6555%
+Source Step = 90.684%
+Source Step = 90.7125%
+Source Step = 90.741%
+Source Step = 90.7694%
+Source Step = 90.7979%
+Source Step = 90.8264%
+Source Step = 90.8548%
+Source Step = 90.8833%
+Source Step = 90.9118%
+Source Step = 90.9403%
+Source Step = 90.9687%
+Source Step = 90.9972%
+Source Step = 91.0257%
+Source Step = 91.0542%
+Source Step = 91.0826%
+Source Step = 91.1111%
+Source Step = 91.1396%
+Source Step = 91.1681%
+Source Step = 91.1965%
+Source Step = 91.225%
+Source Step = 91.2535%
+Source Step = 91.2819%
+Source Step = 91.3104%
+Source Step = 91.3389%
+Source Step = 91.3674%
+Source Step = 91.3958%
+Source Step = 91.4243%
+Source Step = 91.4528%
+Source Step = 91.4813%
+Source Step = 91.5097%
+Source Step = 91.5382%
+Source Step = 91.5667%
+Source Step = 91.5952%
+Source Step = 91.6236%
+Source Step = 91.6521%
+Source Step = 91.6806%
+Source Step = 91.709%
+Source Step = 91.7375%
+Source Step = 91.766%
+Source Step = 91.7945%
+Source Step = 91.8229%
+Source Step = 91.8514%
+Source Step = 91.8799%
+Source Step = 91.9084%
+Source Step = 91.9368%
+Source Step = 91.9653%
+Source Step = 91.9938%
+Source Step = 92.0223%
+Source Step = 92.0507%
+Source Step = 92.0792%
+Source Step = 92.1077%
+Source Step = 92.1361%
+Source Step = 92.1646%
+Source Step = 92.1931%
+Source Step = 92.2216%
+Source Step = 92.25%
+Source Step = 92.2785%
+Source Step = 92.307%
+Source Step = 92.3355%
+Source Step = 92.3639%
+Source Step = 92.3924%
+Source Step = 92.4209%
+Source Step = 92.4494%
+Source Step = 92.4778%
+Source Step = 92.5063%
+Source Step = 92.5348%
+Source Step = 92.5632%
+Source Step = 92.5917%
+Source Step = 92.6202%
+Source Step = 92.6487%
+Source Step = 92.6771%
+Source Step = 92.7056%
+Source Step = 92.7341%
+Source Step = 92.7626%
+Source Step = 92.791%
+Source Step = 92.8195%
+Source Step = 92.848%
+Source Step = 92.8764%
+Source Step = 92.9049%
+Source Step = 92.9334%
+Source Step = 92.9619%
+Source Step = 92.9903%
+Source Step = 93.0188%
+Source Step = 93.0473%
+Source Step = 93.0758%
+Source Step = 93.1042%
+Source Step = 93.1327%
+Source Step = 93.1612%
+Source Step = 93.1897%
+Source Step = 93.2181%
+Source stepping aborted.
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 10.0379%
+Source Step = 10.0616%
+Source Step = 10.0911%
+Source Step = 10.1207%
+Source Step = 10.1503%
+Source Step = 10.1799%
+vernier = 0.00146484
+Source Step = 10.2199%
+Source Step = 10.2643%
+Source Step = 10.3087%
+Source Step = 10.353%
+Source Step = 10.3974%
+vernier = 0.00219727
+Source Step = 10.4529%
+Source Step = 10.5195%
+Source Step = 10.5861%
+Source Step = 10.6527%
+Source Step = 10.7193%
+vernier = 0.0032959
+Source Step = 10.7992%
+Source Step = 10.899%
+Source Step = 10.9989%
+Source Step = 11.0988%
+Source Step = 11.1987%
+vernier = 0.00494385
+Source Step = 11.3135%
+Source Step = 11.4633%
+Source Step = 11.6131%
+Source Step = 11.763%
+Source Step = 11.9128%
+vernier = 0.00741577
+Source Step = 12.0776%
+Source Step = 12.3023%
+Source Step = 12.527%
+Source Step = 12.7517%
+Source Step = 12.9764%
+vernier = 0.0111237
+Source Step = 13.2124%
+Source Step = 13.5495%
+Source Step = 13.8866%
+Source Step = 14.2236%
+Source Step = 14.5607%
+Source Step = 14.8978%
+vernier = 0.0166855
+Source Step = 15.4034%
+Source Step = 15.909%
+Source Step = 16.4147%
+Source Step = 16.9203%
+Source Step = 17.4259%
+vernier = 0.0250282
+Source Step = 18.1591%
+Source Step = 18.9175%
+Source Step = 19.6759%
+Source Step = 20.4344%
+Source Step = 21.1928%
+vernier = 0.0375423
+Source Step = 22.2546%
+Source Step = 23.3922%
+Source Step = 24.5299%
+Source Step = 25.6675%
+Source Step = 26.8052%
+vernier = 0.0563135
+Source Step = 28.341%
+Source Step = 30.0475%
+Source Step = 31.7539%
+Source Step = 33.4604%
+Source Step = 35.1669%
+vernier = 0.0844703
+Source Step = 37.3853%
+Source Step = 39.945%
+Source Step = 42.5047%
+Source Step = 45.0644%
+Source Step = 47.6241%
+vernier = 0.126705
+Source Step = 50.8237%
+Source Step = 54.6633%
+Source Step = 58.5029%
+Source Step = 62.3424%
+Source Step = 66.182%
+vernier = 0.190058
+Source Step = 70.7894%
+Source Step = 76.5488%
+Source Step = 82.3081%
+Source Step = 88.0675%
+Source Step = 91.0911%
+Source Step = 91.2171%
+Source Step = 91.3071%
+Source Step = 91.3971%
+Source Step = 91.4871%
+Source Step = 91.577%
+Source Step = 91.667%
+Source Step = 91.757%
+Source Step = 91.847%
+Source Step = 91.937%
+Source Step = 92.027%
+Source Step = 92.117%
+Source Step = 92.207%
+Source Step = 92.297%
+Source Step = 92.387%
+Source Step = 92.4769%
+Source Step = 92.5669%
+Source Step = 92.6569%
+Source Step = 92.7469%
+Source Step = 92.8369%
+Source Step = 92.9269%
+Source Step = 93.0169%
+Source Step = 93.1069%
+Source Step = 93.1969%
+Source Step = 93.2868%
+Source Step = 93.3768%
+Source Step = 93.4668%
+Source Step = 93.5568%
+Source Step = 93.6468%
+Source Step = 93.7368%
+Source Step = 93.8268%
+Source Step = 93.9168%
+Source Step = 94.0068%
+Source Step = 94.0968%
+Source Step = 94.1867%
+Source Step = 94.2767%
+Source Step = 94.3667%
+Source Step = 94.4567%
+Source Step = 94.5467%
+Source Step = 94.6367%
+Source Step = 94.7267%
+Source Step = 94.8167%
+Source Step = 94.9067%
+Source Step = 94.9967%
+Source Step = 95.0866%
+Source Step = 95.1766%
+Source Step = 95.2666%
+Source Step = 95.3566%
+Source Step = 95.4466%
+Source Step = 95.5366%
+Source Step = 95.6266%
+Source Step = 95.7166%
+Source Step = 95.8066%
+Source Step = 95.8965%
+Source Step = 95.9865%
+Source Step = 96.0765%
+Source Step = 96.1665%
+Source Step = 96.2565%
+Source Step = 96.3465%
+Source Step = 96.4365%
+Source Step = 96.5265%
+Source Step = 96.6165%
+Source Step = 96.7065%
+Source Step = 96.7964%
+Source Step = 96.8864%
+Source Step = 96.9764%
+Source Step = 97.0664%
+Source Step = 97.1564%
+Source Step = 97.2464%
+Source Step = 97.3364%
+Source Step = 97.4264%
+Source Step = 97.5164%
+Source Step = 97.6064%
+Source Step = 97.6963%
+Source Step = 97.7863%
+Source Step = 97.8763%
+Source Step = 97.9663%
+Source Step = 98.0563%
+Source Step = 98.1463%
+Source Step = 98.2363%
+Source Step = 98.3263%
+Source Step = 98.4163%
+Source Step = 98.5062%
+Source Step = 98.5962%
+Source Step = 98.6862%
+Source Step = 98.7762%
+Source Step = 98.8662%
+Source Step = 98.9562%
+Source Step = 99.0462%
+Source Step = 99.1362%
+Source Step = 99.2262%
+Source Step = 99.3162%
+Source Step = 99.4061%
+Source Step = 99.4961%
+Source Step = 99.5861%
+Source Step = 99.6761%
+Source Step = 99.7661%
+Source Step = 99.8561%
+Source Step = 99.9461%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Source Step = 100%
+Trouble finding operating point....skipping operating point for Transient analysis.
