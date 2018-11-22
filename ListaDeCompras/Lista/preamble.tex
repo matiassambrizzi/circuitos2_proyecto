@@ -1,0 +1,57 @@
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsthm,mathrsfs,amsfonts,dsfont}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{multirow}
+\usepackage{sidecap}
+\usepackage{float}
+\usepackage{cleveref} 
+\usepackage{parskip} 
+\usepackage[colorinlistoftodos]{todonotes} %Para comentarios con \todo
+\usepackage{ gensymb }
+%Paquetes Matematicos
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage[justification=centering]{caption}
+%Dimensiones
+%\usepackage[left=3cm,right=3cm,bottom=3.5cm,top=3.5cm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\it }
+\lhead{\it }
+\cfoot{Página \thepage }
+\usepackage{etoolbox}
+\makeatletter
+\newenvironment{absolutelynopagebreak}
+  {\par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\par\xdef\tpd{\the\prevdepth}\egroup
+   \prevdepth=\tpd}
+\usepackage{lipsum} % for dummy text only
+\usepackage{caption}
+\usepackage{subcaption}
+\captionsetup[table]{name=Tabla}
+
+\usepackage[a4paper,top=3cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}%% Sets page size and margins
+\usepackage{wrapfig}
+\usepackage{amsmath}
+
+\numberwithin{equation}{section}   %EC 1.1, 1.2, 2.1, 2.2, etc... auomatico por seccion
+\numberwithin{table}{section}   %EC 1.1, 1.2, 2.1, 2.2, etc... auomatico por seccion
+\numberwithin{figure}{section}  
+
+\usepackage{array}
+\linespread{1.15}  %Para interlineado%
+\usepackage{physics}
+ %Este paquete tiene derivadas mas chetas:
+%	\dv{Q}{t} = \dv{s}{t}		 	para derivadas comun
+%	\dv[n]{Q}{t} = \dv[n]{s}{t} 	para derivadas comun sucesivas (segunda derivada, tercera, etc..)
+%	
+%	\pdv{Q}{t} = \pdv{s}{t}  		lo mismo para derivadas parciales
+%	\pdv[n]{Q}{t} = \pdv[n]{s}{t} 
+%	\pdv{Q}{x}{t} = \pdv{s}{x}{t} 	para derivadas parciales multiples distintas
+\usepackage{listings} %%Para copiar y pegar codigo
+%%begin{lstlisting}....end{lstlisting}
+%%\lstinputlisting{nombre_fichero_codigo.py}
