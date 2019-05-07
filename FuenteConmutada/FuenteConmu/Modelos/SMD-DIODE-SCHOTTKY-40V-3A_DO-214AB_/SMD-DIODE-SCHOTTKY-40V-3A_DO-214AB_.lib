@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SMD-DIODE-SCHOTTKY-40V-3A(DO-214AB)
+#
+DEF SMD-DIODE-SCHOTTKY-40V-3A(DO-214AB) D 0 40 N N 1 L N
+F0 "D" -150 100 50 H V L BNN
+F1 "SMD-DIODE-SCHOTTKY-40V-3A(DO-214AB)" -150 -150 50 H V L BNN
+F2 "DO-214AB" 0 0 50 H I L BNN
+F3 "SS34-E3/57TGICT-ND" 0 0 50 H I L BNN
+F4 "https://www.digikey.com.ar/product-detail/en/vishay-semiconductor-diodes-division/SS34-E3-57T/SS34-E3-57TGICT-ND/1091684?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F5 "DO-214 Vishay" 0 0 50 H I L BNN
+F6 "Vishay" 0 0 50 H I L BNN
+F7 "SS34-E3/57T" 0 0 50 H I L BNN
+F8 "Rectifier, Schottky; DO-214AB; 3.0A IF; 0.75V; 40V; 100A IFRM; 10000V/us; 1000pF" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -50 -100 -50 100 N
+P 2 0 0 10 -50 -100 50 0 N
+P 2 0 0 10 -50 100 50 0 N
+P 2 0 0 10 50 100 50 -100 N
+X + 1 -150 0 100 R 40 40 0 0 P 
+X - 2 150 0 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

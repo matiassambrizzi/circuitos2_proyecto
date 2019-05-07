@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 2N3906
+#
+DEF 2N3906 X 0 40 N N 1 L N
+F0 "X" 526 -200 50 H V L BNN
+F1 "2N3906" 525 -425 50 H V L BNN
+F2 "TO92" 0 0 50 H I L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "Unavailable" 0 0 50 H I L BNN
+F5 "2N3906" 0 0 50 H I L BNN
+F6 "" 0 0 50 H I L BNN
+F7 "STMicroelectronics" 0 0 50 H I L BNN
+F8 "TO-92 Harris" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 100 -400 275 -475 N
+P 2 0 0 6 275 -475 225 -525 N
+P 2 0 0 6 100 -400 225 -525 N
+P 2 0 0 6 250 -500 400 -600 N
+P 2 0 0 6 100 -500 100 -100 N
+P 2 0 0 6 100 -200 400 0 N
+P 2 0 0 6 100 -300 0 -300 N
+T 0 401 0 16 0 0 0 SpiceOrder~1 Normal 0 C C
+T 0 0 -301 16 0 0 0 SpiceOrder~2 Normal 0 C C
+T 0 400 -601 16 0 0 0 SpiceOrder~3 Normal 0 C C
+X C 1 400 0 0 R 40 40 0 0 P 
+X B 2 0 -300 0 R 40 40 0 0 P 
+X E 3 400 -600 0 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

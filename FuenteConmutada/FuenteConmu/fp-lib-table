@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LM2576HVS-ADJ_NOPB)(type Legacy)(uri "$(KIPRJMOD)/Modelos/LM2576HVS-ADJ_NOPB/LM2576HVS-ADJ_NOPB.mod")(options "")(descr ""))
+)

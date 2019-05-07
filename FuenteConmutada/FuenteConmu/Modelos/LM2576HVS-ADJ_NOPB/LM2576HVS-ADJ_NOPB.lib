@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LM2576HVS-ADJ/NOPB
+#
+DEF LM2576HVS-ADJ/NOPB U 0 40 Y Y 1 L N
+F0 "U" -402 315 50 H V L BNN
+F1 "LM2576HVS-ADJ/NOPB" -401 -315 50 H V L BNN
+F2 "REG_LM2576HVS-ADJ/NOPB" 0 0 50 H I L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "SIMPLE SWITCHER? 4V to 60V, 3A Low Component Count Step-Down Regulator 5-DDPAK/TO-263 -40 to 125" 0 0 50 H I L BNN
+F5 "Unavailable" 0 0 50 H I L BNN
+F6 "LM2576HVS-ADJ/NOPB" 0 0 50 H I L BNN
+F7 "TO-263-5 Texas Instruments" 0 0 50 H I L BNN
+F8 "Texas Instruments" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 300 400 300 N
+P 2 0 0 10 400 300 400 -200 N
+P 2 0 0 10 -400 300 -400 -200 N
+P 2 0 0 10 -400 -200 400 -200 N
+X VIN 1 -600 200 200 R 40 40 0 0 I 
+X GND 3 600 -100 200 L 40 40 0 0 W 
+X GND 6 600 -100 200 L 40 40 0 0 W 
+X GND 7 600 -100 200 L 40 40 0 0 W 
+X ON/OFF 5 -600 0 200 R 40 40 0 0 I 
+X FB 4 600 100 200 L 40 40 0 0 P 
+X OUT 2 600 200 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

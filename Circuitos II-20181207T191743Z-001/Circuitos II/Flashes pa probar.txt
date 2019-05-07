@@ -1,0 +1,9 @@
+Jugar con la tension de la subfuente
+Jugar con las resistencias entre el multiplicador de vbe y los driver
+Jugar con el preset del multiplicador de Vbe
+Jugar con el Cmiller y con el C en la r de realimentacion
+Cambiar la forma del multiplicador de vbe (chupar despues de la R como lo habiamos hecho antes)
+Agregar un pull down al gate de los MOS
+
+http://www.ti.com/lit/ds/symlink/lm2576.pdf
+http://www.ti.com/lit/an/snva536/snva536.pdf

@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LM2596SX-ADJ/NOPB
+#
+DEF LM2596SX-ADJ/NOPB U 0 40 Y Y 1 L N
+F0 "U" -196 338 50 H V L BNN
+F1 "LM2596SX-ADJ/NOPB" -185 -699 50 H V L BNN
+F2 "TO170P1435X465-6N" 0 0 50 H I L BNN
+F3 "TO-263-6 Texas Instruments" 0 0 50 H I L BNN
+F4 "Texas Instruments" 0 0 50 H I L BNN
+F5 "None" 0 0 50 H I L BNN
+F6 "LM2596SX-ADJ/NOPB" 0 0 50 H I L BNN
+F7 "SIMPLE SWITCHER® 4.5V to 40V, 3A Low Component Count Step-Down Regulator 5-DDPAK/TO-263 -40 to 125" 0 0 50 H I L BNN
+F8 "Unavailable" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 16 -500 300 -500 -600 N
+P 2 0 0 16 -500 -600 500 -600 N
+P 2 0 0 16 500 -600 500 300 N
+P 2 0 0 16 500 300 -500 300 N
+X VIN 1 -700 100 200 R 40 40 0 0 I 
+X ~ON~/OFF 5 -700 -100 200 R 40 40 0 0 P 
+X GND_2 3 -700 -300 200 R 40 40 0 0 P 
+X GND 6 -700 -400 200 R 40 40 0 0 P 
+X OUT 2 700 100 200 L 40 40 0 0 O 
+X FB 4 700 -100 200 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

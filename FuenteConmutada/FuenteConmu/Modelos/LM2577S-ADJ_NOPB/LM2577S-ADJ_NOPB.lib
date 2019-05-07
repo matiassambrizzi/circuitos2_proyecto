@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LM2577S-ADJ/NOPB
+#
+DEF LM2577S-ADJ/NOPB U 0 40 Y Y 1 L N
+F0 "U" -601 300 50 H V L BNN
+F1 "LM2577S-ADJ/NOPB" -600 -400 50 H V L BNN
+F2 "TO170P1435X465-6N" 0 0 50 H I L BNN
+F3 "None" 0 0 50 H I L BNN
+F4 "Unavailable" 0 0 50 H I L BNN
+F5 "LM2577S-ADJ/NOPB" 0 0 50 H I L BNN
+F6 "SIMPLE SWITCHER? 3.5V to 40V, 3A Low Component Count Step-Up Regulator 5-DDPAK/TO-263 -40 to 125" 0 0 50 H I L BNN
+F7 "Texas Instruments" 0 0 50 H I L BNN
+F8 "TO-263-5 Texas Instruments" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -600 300 600 300 N
+P 2 0 0 10 600 300 600 -400 N
+P 2 0 0 10 600 -400 -600 -400 N
+P 2 0 0 10 -600 -400 -600 300 N
+X VIN 5 800 200 200 L 40 40 0 0 W 
+X SWITCH 4 800 0 200 L 40 40 0 0 O 
+X COMP 1 -800 0 200 R 40 40 0 0 I 
+X FEEDBACK 2 -800 -100 200 R 40 40 0 0 I 
+X GROUND 3 800 -300 200 L 40 40 0 0 W 
+X GROUND 6 800 -300 200 L 40 40 0 0 W 
+X GROUND 7 800 -300 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

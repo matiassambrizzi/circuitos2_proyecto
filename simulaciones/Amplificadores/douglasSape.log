@@ -1,0 +1,337 @@
+Circuit: * Z:\home\matias\Mati\FIUBA\Circuitos2\TPSS\circuitos2_proyecto\simulaciones\Amplificadores\douglasSape.asc
+
+Warning: Multiple definitions of model "bc817-16" Type: BJT
+Warning: Multiple definitions of model "bc848b" Type: BJT
+Warning: Multiple definitions of model "bc807-16" Type: BJT
+Warning: Multiple definitions of model "bcx17" Type: BJT
+Warning: Multiple definitions of model "bc858b" Type: BJT
+Warning: Multiple definitions of model "2sd1898" Type: BJT
+Warning: Multiple definitions of model "d45h11" Type: BJT
+Warning: Multiple definitions of model "bc856b" Type: BJT
+Warning: Multiple definitions of model "bc556b" Type: BJT
+Warning: Multiple definitions of model "bc846b" Type: BJT
+Warning: Multiple definitions of model "bc546b" Type: BJT
+Warning: Multiple definitions of model "bc327-40" Type: BJT
+Warning: Multiple definitions of model "bc327-25" Type: BJT
+Warning: Multiple definitions of model "bc807-40" Type: BJT
+Warning: Multiple definitions of model "bc807-25" Type: BJT
+Warning: Multiple definitions of model "bc857c" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc857a" Type: BJT
+Warning: Multiple definitions of model "bc557c" Type: BJT
+Warning: Multiple definitions of model "bc557b" Type: BJT
+Warning: Multiple definitions of model "bc337-40" Type: BJT
+Warning: Multiple definitions of model "bc337-25" Type: BJT
+Warning: Multiple definitions of model "bc817-40" Type: BJT
+Warning: Multiple definitions of model "bc817-25" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Warning: Multiple definitions of model "bc847a" Type: BJT
+Warning: Multiple definitions of model "bc547c" Type: BJT
+Warning: Multiple definitions of model "bc547b" Type: BJT
+Warning: Multiple definitions of model "2n3019" Type: BJT
+Warning: Multiple definitions of model "bcw68g" Type: BJT
+Warning: Multiple definitions of model "bcw68f" Type: BJT
+Warning: Multiple definitions of model "bcw60d" Type: BJT
+Warning: Multiple definitions of model "bcw60c" Type: BJT
+Warning: Multiple definitions of model "bcw60b" Type: BJT
+Warning: Multiple definitions of model "bcw60a" Type: BJT
+Warning: Multiple definitions of model "2n3055" Type: BJT
+Warning: Multiple definitions of model "2n5771" Type: BJT
+Warning: Multiple definitions of model "2n5769" Type: BJT
+Warning: Multiple definitions of model "2n2369" Type: BJT
+Warning: Multiple definitions of model "2n5401" Type: BJT
+Warning: Multiple definitions of model "2n5550" Type: BJT
+Warning: Multiple definitions of model "2n4403" Type: BJT
+Warning: Multiple definitions of model "2n4401" Type: BJT
+Warning: Multiple definitions of model "2n2905a" Type: BJT
+Warning: Multiple definitions of model "2n2219a" Type: BJT
+Warning: Multiple definitions of model "2n5087" Type: BJT
+Warning: Multiple definitions of model "2n5210" Type: BJT
+Warning: Multiple definitions of model "2n5089" Type: BJT
+Warning: Multiple definitions of model "2n3391a" Type: BJT
+Warning: Multiple definitions of model "2n4126" Type: BJT
+Warning: Multiple definitions of model "2n4124" Type: BJT
+Warning: Multiple definitions of model "ztx1048a" Type: BJT
+Warning: Multiple definitions of model "ztx849" Type: BJT
+Warning: Multiple definitions of model "fzt849" Type: BJT
+Warning: Multiple definitions of model "2n3906" Type: BJT
+Warning: Multiple definitions of model "2n3904" Type: BJT
+Warning: Multiple definitions of model "2n2907" Type: BJT
+Warning: Multiple definitions of model "2n2222" Type: BJT
+Warning: Multiple definitions of model "w5ap-lzmz-5k8l" Type: Diode
+Warning: Multiple definitions of model "1n5369b" Type: Diode
+Warning: Multiple definitions of model "1n5371b" Type: Diode
+Warning: Multiple definitions of model "1n5375b" Type: Diode
+Warning: Multiple definitions of model "1n5378b" Type: Diode
+Warning: Multiple definitions of model "1n5373b" Type: Diode
+Warning: Multiple definitions of model "pt-121-b" Type: Diode
+Warning: Multiple definitions of model "ss24" Type: Diode
+Warning: Multiple definitions of model "es1d" Type: Diode
+Warning: Multiple definitions of model "pds5100" Type: Diode
+Warning: Multiple definitions of model "zlls2000" Type: Diode
+Warning: Multiple definitions of model "zlls1000" Type: Diode
+Warning: Multiple definitions of model "10mq060n" Type: Diode
+Warning: Multiple definitions of model "b560c" Type: Diode
+Warning: Multiple definitions of model "b550c" Type: Diode
+Warning: Multiple definitions of model "b540c" Type: Diode
+Warning: Multiple definitions of model "b530c" Type: Diode
+Warning: Multiple definitions of model "b520c" Type: Diode
+Warning: Multiple definitions of model "pds760" Type: Diode
+Warning: Multiple definitions of model "dflz33" Type: Diode
+Warning: Multiple definitions of model "gsd2004w-v" Type: Diode
+Warning: Multiple definitions of model "prll5817" Type: Diode
+Warning: Multiple definitions of model "pmeg6010aed" Type: Diode
+Warning: Multiple definitions of model "pmeg2005eb" Type: Diode
+Warning: Multiple definitions of model "pmeg2010aeb" Type: Diode
+Warning: Multiple definitions of model "pmeg4005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg3005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg2005aea" Type: Diode
+Warning: Multiple definitions of model "pmeg4010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg3010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg2010bea" Type: Diode
+Warning: Multiple definitions of model "pmeg2010ea" Type: Diode
+Warning: Multiple definitions of model "pmeg2020aea" Type: Diode
+Warning: Multiple definitions of model "nssws108t" Type: Diode
+Warning: Multiple definitions of model "nssw008ct-p1" Type: Diode
+Warning: Multiple definitions of model "aot-2015" Type: Diode
+Warning: Multiple definitions of model "lxk2-pw14" Type: Diode
+Warning: Multiple definitions of model "lxhl-bw02" Type: Diode
+Warning: Multiple definitions of model "qtlp690c" Type: Diode
+Warning: Multiple definitions of model "nscw100" Type: Diode
+Warning: Multiple definitions of model "nspw500bs" Type: Diode
+Warning: Multiple definitions of model "upsc600" Type: Diode
+Warning: Multiple definitions of model "30bq060" Type: Diode
+Warning: Multiple definitions of model "mbr20100ct" Type: Diode
+Warning: Multiple definitions of model "mbrb2545ct" Type: Diode
+Warning: Multiple definitions of model "mur460" Type: Diode
+Warning: Multiple definitions of model "mbr0540" Type: Diode
+Warning: Multiple definitions of model "mv2201" Type: Diode
+Warning: Multiple definitions of model "1n750" Type: Diode
+Warning: Multiple definitions of model "rb10l-40" Type: Diode
+Warning: Multiple definitions of model "bzx84c15l" Type: Diode
+Warning: Multiple definitions of model "bzx84c12l" Type: Diode
+Warning: Multiple definitions of model "bzx84c10l" Type: Diode
+Warning: Multiple definitions of model "bzx84c8v2l" Type: Diode
+Warning: Multiple definitions of model "bzx84c6v2l" Type: Diode
+Warning: Multiple definitions of model "mbr745" Type: Diode
+Warning: Multiple definitions of model "mbr735" Type: Diode
+Warning: Multiple definitions of model "murs320" Type: Diode
+Warning: Multiple definitions of model "murs120" Type: Diode
+Warning: Multiple definitions of model "dfls220l" Type: Diode
+Warning: Multiple definitions of model "cmdsh2-3" Type: Diode
+Warning: Multiple definitions of model "mbrs360" Type: Diode
+Warning: Multiple definitions of model "mbrs340" Type: Diode
+Warning: Multiple definitions of model "mbrs140" Type: Diode
+Warning: Multiple definitions of model "mbrs130l" Type: Diode
+Warning: Multiple definitions of model "mbrs1100" Type: Diode
+Warning: Multiple definitions of model "mbr0530l" Type: Diode
+Warning: Multiple definitions of model "mbr0520l" Type: Diode
+Warning: Multiple definitions of model "bat54" Type: Diode
+Warning: Multiple definitions of model "1n5819" Type: Diode
+Warning: Multiple definitions of model "1n5818" Type: Diode
+Warning: Multiple definitions of model "1n5817" Type: Diode
+Warning: Multiple definitions of model "mmsd4148" Type: Diode
+Warning: Multiple definitions of model "1n4148" Type: Diode
+Warning: Multiple definitions of model "1n914" Type: Diode
+Error on line 55 : d2 n037 v- di_mbrm3100
+	 Unable to find definition of model "di_mbrm3100"
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Gmin = 100
+vernier = 0.5
+vernier = 0.25
+Gmin = 29.1271
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 26.583
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 26.5441
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 3.03622%
+Source Step = 3.06581%
+Source Step = 3.09541%
+Source Step = 3.125%
+Source Step = 3.15459%
+Source Step = 3.18419%
+vernier = 0.00146484
+Source Step = 3.22857%
+Source Step = 3.27296%
+Source Step = 3.31735%
+Source Step = 3.36174%
+Source Step = 3.40613%
+vernier = 0.00219727
+Source Step = 3.4705%
+Source Step = 3.53708%
+Source Step = 3.60366%
+Source Step = 3.67025%
+Source Step = 3.73683%
+vernier = 0.0032959
+Source Step = 3.83005%
+Source Step = 3.92992%
+Source Step = 4.0298%
+Source Step = 4.12968%
+Source Step = 4.22955%
+vernier = 0.00494385
+Source Step = 4.36438%
+Source Step = 4.5142%
+Source Step = 4.66401%
+Source Step = 4.81382%
+Source Step = 4.96364%
+vernier = 0.00741577
+Source Step = 5.1584%
+Source Step = 5.38312%
+Source Step = 5.60784%
+Source Step = 5.83256%
+Source Step = 6.05728%
+vernier = 0.0111237
+Source Step = 6.33818%
+Source Step = 6.67526%
+Source Step = 7.01234%
+Source Step = 7.34942%
+Source Step = 7.6865%
+vernier = 0.0166855
+Source Step = 8.091%
+Source Step = 8.59662%
+Source Step = 9.10224%
+Source Step = 9.60786%
+Source Step = 10.1135%
+vernier = 0.0250282
+Source Step = 10.6949%
+Source Step = 11.4534%
+Source Step = 12.2118%
+Source Step = 12.9702%
+Source Step = 13.7287%
+vernier = 0.0375423
+Source Step = 14.5629%
+Source Step = 15.7006%
+Source Step = 16.0774%
+Source Step = 16.1485%
+Source Step = 16.2196%
+Source Step = 16.2907%
+Source Step = 16.3618%
+vernier = 0.00351959
+Source Step = 16.4401%
+Source Step = 16.5467%
+Source Step = 16.6534%
+Source Step = 16.76%
+Source Step = 16.8667%
+vernier = 0.00527939
+Source Step = 16.9787%
+Source Step = 17.1386%
+Source Step = 17.2986%
+Source Step = 17.4586%
+Source Step = 17.6186%
+Source Step = 17.7786%
+vernier = 0.00791909
+Source Step = 18.0185%
+Source Step = 18.2585%
+Source Step = 18.4985%
+Source Step = 18.7385%
+Source Step = 18.9784%
+vernier = 0.0118786
+Source Step = 19.3264%
+Source Step = 19.6864%
+Source Step = 20.0463%
+Source Step = 20.4063%
+Source Step = 20.7662%
+vernier = 0.0178179
+Source Step = 21.2702%
+Source Step = 21.8101%
+Source Step = 22.35%
+Source Step = 22.89%
+Source Step = 23.4299%
+vernier = 0.0267269
+Source Step = 24.1588%
+Source Step = 24.9687%
+Source Step = 25.7787%
+Source Step = 26.5886%
+Source Step = 27.3985%
+vernier = 0.0400904
+Source Step = 28.4513%
+Source Step = 29.6662%
+Source Step = 30.8811%
+Source Step = 32.0959%
+Source Step = 33.3108%
+vernier = 0.0601356
+Source Step = 34.8294%
+Source Step = 36.6516%
+Source Step = 38.4739%
+Source Step = 40.2962%
+Source Step = 42.1185%
+vernier = 0.0902034
+Source Step = 44.3053%
+Source Step = 47.0387%
+Source Step = 49.7721%
+Source Step = 52.5056%
+Source Step = 55.239%
+vernier = 0.135305
+Source Step = 58.3825%
+Source Step = 62.4826%
+Source Step = 66.5828%
+Source Step = 70.6829%
+Source Step = 74.7831%
+vernier = 0.202958
+Source Step = 79.2932%
+Source Step = 85.4435%
+Source Step = 91.5937%
+Source Step = 91.661%
+Source Step = 91.7571%
+Source Step = 91.8532%
+Source Step = 91.9493%
+Source Step = 92.0454%
+Source Step = 92.1415%
+Source Step = 92.2375%
+Source Step = 92.3336%
+Source Step = 92.4297%
+Source Step = 92.5258%
+Source Step = 92.6219%
+Source Step = 92.718%
+Source Step = 92.8141%
+Source Step = 92.9102%
+Source Step = 93.0063%
+Source Step = 93.1024%
+Source Step = 93.1985%
+Source Step = 93.2946%
+Source Step = 93.3907%
+Source Step = 93.4868%
+Source Step = 93.5829%
+Source Step = 93.679%
+Source Step = 93.7751%
+Source Step = 93.8712%
+Source Step = 93.9673%
+Source Step = 94.0634%
+Source Step = 94.1595%
+Source Step = 94.2556%
+Source Step = 94.3517%
+Source Step = 94.4478%
+Source Step = 94.5439%
+Source Step = 94.64%
+Source Step = 94.7361%
+Source Step = 94.8322%
+Source Step = 94.9283%
+Source Step = 95.0244%
+Source Step = 95.1205%
+Source Step = 95.2166%
+Source Step = 95.3127%
+Source Step = 95.4088%
+Source Step = 95.5049%
+Source Step = 95.601%
+Source Step = 95.6971%
+Source Step = 95.7931%
+Source Step = 95.8892%
+Source Step = 95.9853%
+Trouble finding operating point....skipping operating point for Transient analysis.

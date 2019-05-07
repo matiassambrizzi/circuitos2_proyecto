@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/matias/Escritorio/FuenteConmutada/FuenteConmu/FuenteConmu.sch</source>
+    <date>mié 05 dic 2018 19:04:00 -03</date>
+    <tool>Eeschema 4.0.7-e2-6376~61~ubuntu18.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FuenteConmu.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>LM2596SX-ADJ/NOPB</value>
+      <footprint>LM2596SX-ADJ_NOPB:TO170P1435X465-6N</footprint>
+      <datasheet>TO-263-6 Texas Instruments</datasheet>
+      <fields>
+        <field name="Field4">Texas Instruments</field>
+        <field name="Field5">None</field>
+        <field name="Field6">LM2596SX-ADJ/NOPB</field>
+        <field name="Field7">SIMPLE SWITCHER® 4.5V to 40V, 3A Low Component Count Step-Down Regulator 5-DDPAK/TO-263 -40 to 125</field>
+        <field name="Field8">Unavailable</field>
+      </fields>
+      <libsource lib="LM2596SX-ADJ_NOPB" part="LM2596SX-ADJ/NOPB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C083E01</tstamp>
+    </comp>
+    <comp ref="c1">
+      <value>100u</value>
+      <footprint>Capacitors_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C08471C</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>220u</value>
+      <footprint>Capacitors_THT:CP_Radial_D4.0mm_P1.50mm</footprint>
+      <libsource lib="device" part="C"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C08479B</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>330</value>
+      <footprint>Resistors_SMD:R_0201</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C0848B6</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>150u</value>
+      <footprint>Inductors_SMD:L_12x12mm_h8mm</footprint>
+      <libsource lib="device" part="L"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C0848E2</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>SMD-DIODE-SCHOTTKY-40V-3A(DO-214AB)</value>
+      <footprint>SMD-DIODE-SCHOTTKY-40V-3A_DO-214AB_:DO-214AB</footprint>
+      <datasheet>SS34-E3/57TGICT-ND</datasheet>
+      <fields>
+        <field name="Field4">https://www.digikey.com.ar/product-detail/en/vishay-semiconductor-diodes-division/SS34-E3-57T/SS34-E3-57TGICT-ND/1091684?utm_source=snapeda&amp;utm_medium=aggregator&amp;utm_campaign=symbol</field>
+        <field name="Field5">DO-214 Vishay</field>
+        <field name="Field6">Vishay</field>
+        <field name="Field7">SS34-E3/57T</field>
+        <field name="Field8">Rectifier, Schottky; DO-214AB; 3.0A IF; 0.75V; 40V; 100A IFRM; 10000V/us; 1000pF</field>
+      </fields>
+      <libsource lib="SMD-DIODE-SCHOTTKY-40V-3A_DO-214AB_" part="SMD-DIODE-SCHOTTKY-40V-3A(DO-214AB)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C084911</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02</value>
+      <footprint>Connectors:PINHEAD1-2</footprint>
+      <libsource lib="conn" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C0849DC</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Connectors:PINHEAD1-2</footprint>
+      <libsource lib="conn" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C084B0D</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>POT</value>
+      <footprint>3296W-1-250:TRIM_3296W-1-250</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C086A02</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="L">
+      <description>Inductor</description>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LM2596SX-ADJ_NOPB" part="LM2596SX-ADJ/NOPB">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2596SX-ADJ/NOPB</field>
+        <field name="Footprint">TO170P1435X465-6N</field>
+        <field name="Datasheet">TO-263-6 Texas Instruments</field>
+        <field name="Field4">Texas Instruments</field>
+        <field name="Field5">None</field>
+        <field name="Field6">LM2596SX-ADJ/NOPB</field>
+        <field name="Field7">SIMPLE SWITCHER® 4.5V to 40V, 3A Low Component Count Step-Down Regulator 5-DDPAK/TO-263 -40 to 125</field>
+        <field name="Field8">Unavailable</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="input"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GND_2" type="passive"/>
+        <pin num="4" name="FB" type="BiDi"/>
+        <pin num="5" name="~ON~/OFF" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="POT">
+      <description>Potentiometer</description>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SMD-DIODE-SCHOTTKY-40V-3A_DO-214AB_" part="SMD-DIODE-SCHOTTKY-40V-3A(DO-214AB)">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SMD-DIODE-SCHOTTKY-40V-3A(DO-214AB)</field>
+        <field name="Footprint">DO-214AB</field>
+        <field name="Datasheet">SS34-E3/57TGICT-ND</field>
+        <field name="Field4">https://www.digikey.com.ar/product-detail/en/vishay-semiconductor-diodes-division/SS34-E3-57T/SS34-E3-57TGICT-ND/1091684?utm_source=snapeda&amp;utm_medium=aggregator&amp;utm_campaign=symbol</field>
+        <field name="Field5">DO-214 Vishay</field>
+        <field name="Field6">Vishay</field>
+        <field name="Field7">SS34-E3/57T</field>
+        <field name="Field8">Rectifier, Schottky; DO-214AB; 3.0A IF; 0.75V; 40V; 100A IFRM; 10000V/us; 1000pF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="LM2596SX-ADJ_NOPB">
+      <uri>/home/matias/Escritorio/FuenteConmutada/FuenteConmu/Modelos/LM2596SX-ADJ_NOPB/LM2596SX-ADJ_NOPB.lib</uri>
+    </library>
+    <library logical="SMD-DIODE-SCHOTTKY-40V-3A_DO-214AB_">
+      <uri>/home/matias/Escritorio/FuenteConmutada/FuenteConmu/Modelos/SMD-DIODE-SCHOTTKY-40V-3A_DO-214AB_/SMD-DIODE-SCHOTTKY-40V-3A_DO-214AB_.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="2" name="GND">
+      <node ref="J1" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="c1" pin="2"/>
+      <node ref="U1" pin="6"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="3" name="/vout">
+      <node ref="J2" pin="2"/>
+      <node ref="RV1" pin="2"/>
+      <node ref="RV1" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="4" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+      <node ref="U1" pin="1"/>
+      <node ref="c1" pin="1"/>
+    </net>
+    <net code="5" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="RV1" pin="3"/>
+    </net>
+    <net code="6" name="Net-(D1-Pad2)">
+      <node ref="L1" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+  </nets>
+</export>
